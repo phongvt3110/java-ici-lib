@@ -4,6 +4,7 @@ package org.ici;
  * Created by phongvt on 06/05/2019.
  */
 public class Comunication {
+    public static void Version(){ System.out.println("Version:1.0.5");}
     public static void SayHello() {
         System.out.println("Hello world");
     }

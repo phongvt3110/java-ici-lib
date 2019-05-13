@@ -6,7 +6,7 @@
 
     <groupId>com.github.phongvt3110</groupId>
     <artifactId>java-ici-lib</artifactId>
-    <version>1.0.4</version>
+    <version>1.0.5</version>
     <packaging>jar</packaging>
     <name>Test lib</name>
     <description>${project.groupId}:${project.artifactId}</description>
